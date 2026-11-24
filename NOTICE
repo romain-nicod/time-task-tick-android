@@ -1,0 +1,34 @@
+Time-Task-Tick
+Copyright (c) 2026 ai-gmented.pm
+
+This work is licensed under the Creative Commons Attribution 4.0
+International License. The full text is in LICENSE, and a summary is at
+https://creativecommons.org/licenses/by/4.0/
+
+It covers the Time-Task-Tick Android app published in this repository's
+releases; the APK carries this notice and every text below in its About
+screen.
+
+BASED ON
+--------
+Based on kickoff by Romain Nicod
+(https://github.com/romain-nicod/kickoff), licensed under CC BY 4.0.
+Time-Task-Tick started from kickoff's templates and method, then changed
+them: the application, its screens and its Android app are this
+repository's own work.
+
+THIRD-PARTY MATERIAL
+--------------------
+Shipped in the web application's stylesheet and in the Android app, each
+under its own terms; the full texts ship with the Android app.
+
+- AI-GMENTED design system (the ai_gmented-design gem, vendor/gems/):
+  colours, type scale, components, product marks and icon sprite.
+  Licensed under CC BY 4.0; its own NOTICE gives the credit it asks for.
+
+- IBM Plex Sans and IBM Plex Mono, by IBM: SIL Open Font License 1.1.
+
+- Bootstrap Icons, by The Bootstrap Authors: MIT License.
+
+- Bootstrap, by The Bootstrap Authors: MIT License (the stylesheet the
+  design system builds on).
